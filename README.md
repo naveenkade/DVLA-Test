@@ -10,7 +10,7 @@ supported_file_types=xls,csv,xlsx
 -------------------------------------------------------------------------------------------------
 create test data folder & files
 -------------------------------------------------------------------------------------------------
-create  testfiles folder in C drive
-create dummy files of different format types
+create  testfiles folder in C drive <\n>
+create dummy files of different format types \n
 create valid supported type file   // InputFile.xlsx
 
